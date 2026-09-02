@@ -1,6 +1,6 @@
 {
   "name": "sandbox-workspace",
-  "private": true,
+  "private": false,
   "type": "module",
   "scripts": {
     "dev": "vite",
